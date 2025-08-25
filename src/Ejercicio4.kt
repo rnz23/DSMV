@@ -1,14 +1,10 @@
 import kotlin.random.Random
-import kotlin.random.nextInt
-
-
 
 
 fun main(){
     var opcion: Int
-    var intentos: Int = 5
+    var intentos = 5
     val op_pc = Random.nextInt(0,31)
-
 
     do{
         print("INGRESE EL NUMERO CON EL QUE INTENTARÁ: ")

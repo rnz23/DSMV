@@ -1,5 +1,5 @@
 import kotlin.random.Random
-import kotlin.random.nextInt
+
 
 
 fun juego(opcion: Int, op_pc:Int):String{
@@ -12,7 +12,6 @@ fun juego(opcion: Int, op_pc:Int):String{
 
 
     }
-    println()
 }
 
 
@@ -35,7 +34,7 @@ fun main(){
     println("2) Piedra")
     println("3) Tijera")
     println("SOLO INGRESE 1 - 2 - 3")
-    var opcion = readln().toInt()
+    val opcion = readln().toInt()
     val op_pc = Random.nextInt(1,4)
 
 

@@ -1,4 +1,4 @@
-fun mostrarmenu(): Unit{
+fun mostrarmenu(){
     println("=====MENU CALCULADORA=====")
     println(" 1. SUMA ")
     println(" 2. RESTA ")
