@@ -1,4 +1,8 @@
-
+/*EJERCICIO 1 
+Este ejercicio es una "calculadora de sueldo en base al rendimiento que tuvo cada empleado durante el mes, de acuerdo a una escala del 0 al 10, obtendran ciertos descuentos. 
+Creado por: Renzo Murillo Alvarez
+Fecha de Creación: 23/08/2025
+Ultima Modificación: 25/08/2025 */
 
 fun salarioI(punt: Int, salario: Float): Unit{
     var nivel = ""
