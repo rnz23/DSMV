@@ -1,3 +1,9 @@
+/*EJERCICIO 2 
+Este ejercicio es un juego de piedra, papel o tijeras, donde el usuario se enfrentará a la PC, al final se imprimirá si el usuario empató, perdió o ganó. 
+Creado por: Renzo Murillo Alvarez
+Fecha de Creación: 23/08/2025
+Ultima Modificación: 25/08/2025 */
+
 import kotlin.random.Random
 
 

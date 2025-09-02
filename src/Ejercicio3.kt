@@ -1,3 +1,9 @@
+/*EJERCICIO 3 
+Este ejercicio es una "calculadora elemental" donde tnedran las operaciones básicas, suma, resta, multiplicación, division y la opcion de salir. En caso se seleccione una opcion invalida se mandara un mensaje de advertencia. 
+Creado por: Renzo Murillo Alvarez
+Fecha de Creación: 23/08/2025
+Ultima Modificación: 25/08/2025 */
+
 fun mostrarmenu(){
     println("=====MENU CALCULADORA=====")
     println(" 1. SUMA ")
